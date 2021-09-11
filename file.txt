@@ -2,3 +2,4 @@ on newbranch
 first file
 some more text
 even more text in working dir
+updated features from newbranch
